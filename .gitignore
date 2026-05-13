@@ -3,11 +3,6 @@
 .env.*
 !.env.example
 
-# Internal/private docs
-Claude.md
-CLAUDE.md
-Automatio Copilot.md
-
 # Python
 __pycache__/
 *.py[cod]
